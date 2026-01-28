@@ -54,7 +54,7 @@ const Portfolio = () => {
   const scrollToSection = (sectionId) => {
     if (sectionId === "resume") {
       window.open(
-        "https://drive.google.com/file/d/1J_C5gGmqAhyKkxtLDwfmwbK5nqg4tAXt/view?usp=drive_link",
+        "https://drive.google.com/file/d/1ZsV-a0U8N77V42SVCa16sa-HzYOA-reU/view?usp=drive_link",
         "_blank"
       );
       return;
